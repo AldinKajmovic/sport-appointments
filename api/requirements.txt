@@ -1,0 +1,9 @@
+sqlalchemy
+fastapi
+uvicorn[standard]
+websockets
+pillow
+requests
+bcrypt
+fastapi[standard]
+psycopg2
